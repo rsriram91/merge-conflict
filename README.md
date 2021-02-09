@@ -4,4 +4,5 @@ step 1
 step 2
 step 3
 deploying to test environment
-deploying in test 
+deploying in test
+ci for azure devops
